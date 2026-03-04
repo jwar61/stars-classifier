@@ -1,14 +1,14 @@
-# 🌌 Stellar Object Clustering
+# Stellar Object Clustering
 
-This project applies the classification of the stelar object clustering to a dataset  using their 3D position, velocity, and mass.  
-The goal is to regroup the stelar objects in space based on their physical and dynamical properties.
+This repository contains a project that applies stellar object classification to a dataset using their 3D position, velocity, and mass.
+
+The goal is to group stellar objects in space based on their physical and dynamic properties.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
- Model_Clostering.ipynb # Main notebook for preprocessing + clustering model
- stars-names.ipynb # Main notebook for preprocessing + stars-names
- starsClustering.ipynb # Main notebook for preprocessing + starsClustering
- data/ # (Optional) Folder containing dataset if added later
+ Model_Clustering.ipynb # Main notebook for preprocessing + clustering model
+ stars-cluster.ipynb # Main notebook for preprocessing + stars-names
+
 README.md # Project documentation
